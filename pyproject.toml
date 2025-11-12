@@ -1,0 +1,22 @@
+[project]
+name = "heart-disease-classifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.4.10",
+    "ruff>=0.14.4",
+]
+visuals = [
+    "matplotlib>=3.10.7",
+    "seaborn>=0.13.2",
+]
