@@ -1,5 +1,18 @@
 # Heart Disease Prediction - Machine Learning Application
 
+## ⚠️ Disclaimer
+
+This machine learning application is intended **for educational and learning purposes only**. It should **NOT** be used as a medical diagnostic tool or as a substitute for professional medical advice, diagnosis, or treatment.
+
+**Important:**
+- This project is a learning exercise in machine learning and data science
+- The predictions made by this model are not clinically validated
+- Always consult qualified healthcare professionals for medical advice
+- Never make health decisions based solely on this application's output
+
+If you have concerns about heart disease or any medical condition, please seek guidance from a licensed medical professional.
+
+## Cloud Deployment
 The Heart Disease Prediction service is deployed in the cloud and available for testing here: [heart-disease-classifier](https://heart-disease-classifier-jjmy.onrender.com/docs)
 
 ## Problem Statement
